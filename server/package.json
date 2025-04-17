@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "any-text": "^1.2.0",
+    "axios": "^1.8.4",
+    "body-parser": "^2.2.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "multer": "^1.4.5-lts.2",
+    "node-fetch": "^3.3.2",
+    "office-text-extractor": "^3.0.3",
+    "path": "^0.12.7",
+    "pdf-parse": "^1.1.1",
+    "textract": "^2.5.0",
+    "vosk-browser": "^0.0.8",
+    "word-extractor": "^1.0.4",
+    "youtube-transcript": "^1.2.1",
+    "youtube-transcript-api": "^1.1.2",
+    "ytdlp-nodejs": "^2.0.5"
+  }
+}
